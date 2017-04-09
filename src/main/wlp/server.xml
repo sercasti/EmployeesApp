@@ -10,7 +10,7 @@
         <tcpOptions soReuseAddr="true"/>
     </httpEndpoint>
 
-    <application name="employeeApp" context-root="/employeeApp" location="${appLocation}" type="war"/>
+    <application name="employeesApp" context-root="/employeesApp" location="${appLocation}" type="war"/>
 
 
 </server>
