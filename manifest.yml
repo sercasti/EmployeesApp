@@ -1,8 +1,8 @@
 applications:
-- path: target/employeeApp.war
+- path: target/employeesApp.war
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: employeeApp
-  host: employeeApp
+  name: employeesApp
+  host: employeesApp
   disk_quota: 1024M
